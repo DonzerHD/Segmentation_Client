@@ -1,6 +1,6 @@
 # Projet de segmentation de la clientèle pour Uk Retail
 
-Ce projet a pour objectif d'aider Uk Retail, un site de e-commerce anglais, à améliorer l'impact de ses campagnes marketing grâce à une segmentation client basée sur le comportement d'achat. Le projet a été réalisé par l'équipe de DataFlow, composée de trois data scientists.
+Ce projet a pour objectif d'aider Uk Retail, un site de e-commerce anglais, à améliorer l'impact de ses campagnes marketing grâce à une segmentation client basée sur le comportement d'achat.
 
 ## Contexte du projet
 
