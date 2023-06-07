@@ -31,7 +31,7 @@ Le projet est organisé en 2 dossiers :
 - Notebooks : contient les notebooks utilisés pour le projet
 - Présentation : contient la présentation du projet
 
-## Présentation du projet
+## Présentation du projet
 
 Le projet a été présenté à l'oral le 07/06/2022. La présentation est disponible dans le dossier `Présentation`.
 
