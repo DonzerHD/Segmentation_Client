@@ -27,8 +27,13 @@ Le projet est composé des éléments suivants :
 ## Organisation du projet
 
 Le projet est organisé en 2 dossiers :
-    data : contient les données utilisées dans le projet
-    Notebooks : contient les notebooks utilisés pour le projet
+- data : contient les données utilisées dans le projet
+- Notebooks : contient les notebooks utilisés pour le projet
+- Présentation : contient la présentation du projet
+
+## Présentation du projet
+
+Le projet a été présenté à l'oral le 07/06/2022. La présentation est disponible dans le dossier `Présentation`.
 
 ## License
 Ce projet est sous licence MIT - voir [LICENSE](LICENSE) pour plus de détails.
@@ -36,5 +41,6 @@ Ce projet est sous licence MIT - voir [LICENSE](LICENSE) pour plus de détails.
 ## Auteurs
 * **Thomas.l59**[@DonzerHD](https://github.com/DonzerHD)
 * **Dylan.v59**[@vanstavelD](https://github.com/vanstavelD)
+
 
 
