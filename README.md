@@ -26,7 +26,7 @@ Le projet est composé des éléments suivants :
 
 ## Organisation du projet
 
-Le projet est organisé en 2 dossiers :
+Le projet est organisé en 3 dossiers :
 - data : contient les données utilisées dans le projet
 - Notebooks : contient les notebooks utilisés pour le projet
 - Présentation : contient la présentation du projet
