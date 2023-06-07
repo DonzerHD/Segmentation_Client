@@ -33,7 +33,7 @@ Le projet est organisé en 2 dossiers :
 
 ## Présentation du projet
 
-Le projet a été présenté à l'oral le 07/06/2022. La présentation est disponible dans le dossier `Présentation`.
+Le projet a été présenté à l'oral le 07/06/2023. La présentation est disponible dans le dossier `Présentation`.
 
 ## License
 Ce projet est sous licence MIT - voir [LICENSE](LICENSE) pour plus de détails.
